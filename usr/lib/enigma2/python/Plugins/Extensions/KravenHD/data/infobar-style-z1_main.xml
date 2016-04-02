@@ -34,7 +34,7 @@
     <convert type="KravenHDClockToText">Default</convert>
   </widget>
   <eLabel backgroundColor="KravenIBbg" font="Regular; 20" foregroundColor="KravenIBFont1" halign="center" noWrap="1" position="325,621" size="40,35" text="bis" transparent="1" valign="center" zPosition="1" />
-  <widget alphatest="blend" position="20,618" size="220,94" render="KravenHDXPicon" source="session.CurrentService" transparent="1" zPosition="4">
+  <widget alphatest="blend" position="40,604" size="200,120" render="KravenHDXPicon" source="session.CurrentService" transparent="1" zPosition="4">
     <convert type="ServiceName">Reference</convert>
   </widget>
   <!--<eLabel position="0,580" size="1280,140" backgroundColor="KravenIBbg" zPosition="-9" />
